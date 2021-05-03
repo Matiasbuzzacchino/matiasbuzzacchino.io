@@ -1,0 +1,12 @@
+
+body{
+  background-image:url('sfondo.jpeg');
+}
+
+
+.Logo{
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  color: black;
+}
